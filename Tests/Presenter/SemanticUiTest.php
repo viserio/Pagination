@@ -5,7 +5,7 @@ namespace Viserio\Component\Pagination\Tests\Presenters;
 use Narrowspark\TestingHelper\Phpunit\MockeryTestCase;
 use Psr\Http\Message\ServerRequestInterface;
 use Viserio\Component\HttpFactory\UriFactory;
-use Viserio\Component\Pagination\Adapters\ArrayAdapter;
+use Viserio\Component\Pagination\Adapter\ArrayAdapter;
 use Viserio\Component\Pagination\Paginator;
 
 class SemanticUiTest extends MockeryTestCase

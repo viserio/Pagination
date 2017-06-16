@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
-namespace Viserio\Component\Pagination\Tests\Adapters;
+namespace Viserio\Component\Pagination\Tests\Adapter;
 
 use PHPUnit\Framework\TestCase;
-use Viserio\Component\Pagination\Adapters\NullAdapter;
+use Viserio\Component\Pagination\Adapter\NullAdapter;
 
 class NullAdapterTest extends TestCase
 {

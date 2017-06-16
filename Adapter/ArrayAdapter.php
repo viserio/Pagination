@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace Viserio\Component\Pagination\Adapters;
+namespace Viserio\Component\Pagination\Adapter;
 
 use Viserio\Component\Contracts\Pagination\Adapter as AdapterContract;
 

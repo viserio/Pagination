@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace Viserio\Component\Pagination\Presenters;
+namespace Viserio\Component\Pagination\Presenter;
 
 use Viserio\Component\Contracts\Pagination\Paginator as PaginatorContract;
 use Viserio\Component\Contracts\Pagination\Presenter as PresenterContract;
